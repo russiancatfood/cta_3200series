@@ -3,7 +3,7 @@
 HO Scale model of CTA 3200 Series locomotive
 This is semi-static scale model. To add this to your HO scale layout, it'll need to be motorized and functional couplers will have to be added.
 
-![CTA 3200 Series Train](https://github.com/russiancatfood/cta_3200series/blob/master/CAD.png?raw=true)
+![CTA 3200 Series Train](https://raw.githubusercontent.com/russiancatfood/cta_3200series/main/Images/CAD.png)
 
 - Print on a resin printer of your choosing. FDM printer is not a good choice for something this tiny.
 - Print 2 copies of bogies (thus the x2 in the filename)
@@ -13,4 +13,4 @@ This is semi-static scale model. To add this to your HO scale layout, it'll need
 
 Enjoy!
 
-![CTA 3200 Series Train](https://github.com/russiancatfood/cta_3200series/blob/master/Painted_Model.jpeg?raw=true)
+![CTA 3200 Series Train](https://raw.githubusercontent.com/russiancatfood/cta_3200series/main/Images/Painted_Model.jpeg)
