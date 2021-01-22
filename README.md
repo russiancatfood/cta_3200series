@@ -10,6 +10,7 @@ This is semi-static scale model. To add this to your HO scale layout, it'll need
 - Bogies are attached with M2 screws
 - Wheels used are Code 110 HO scale by Kadee (with points cut off)
 - Use CA glue to attach the subframe and the show plow to the cab body
+- I used water peel laser paper to create the decals, but since home printers don't have white ink, it doesn't look perfect 
 
 Enjoy!
 
