@@ -1,6 +1,7 @@
 # CTA 3200 Series
 
 HO Scale model of CTA 3200 Series locomotive
+This is semi-static scale model. To add this to your HO scale layout, it'll need to be motorized and functional couplers will have to be added.
 
 ![CTA 3200 Series Train](https://github.com/russiancatfood/cta_3200series/blob/master/CAD.png?raw=true)
 
